@@ -1,0 +1,36 @@
+.font-title {
+    font-family: 'Pacifico', cursive;
+}
+
+.card-receitas {
+    max-width: 18rem;
+}
+
+.color-special {
+    color: darkred!important;
+}
+
+.btn-color-special {
+    background-color: darkred;
+    color: white;
+}
+
+.border-special {
+    border-color: darkred;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.card-position-img {
+    object-fit: cover;
+    height: 200px;
+}
